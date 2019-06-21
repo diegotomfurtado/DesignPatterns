@@ -1,0 +1,12 @@
+.gradle
+.idea
+**/bin
+**/build
+**/build_gradle
+**/.DS_Store
+**/*.iml
+**/.ivy
+**/.classpath
+**/.project
+**/.sass-cache
+**/.settings
