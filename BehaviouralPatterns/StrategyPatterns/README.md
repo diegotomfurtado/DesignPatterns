@@ -1,6 +1,6 @@
 # Strategy Patterns
 
-### Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
+### "Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable." by _Head First Design Patterns_
 
 #### Pros:
 1. Prevents the conditional statements. (switch, if, else…)
