@@ -2,8 +2,6 @@ package StrategyPatterns.testing;
 
 import StrategyPatterns.Budget;
 import StrategyPatterns.TaxCalculator;
-import StrategyPatterns.notUsing.ICMS;
-import StrategyPatterns.notUsing.ISS;
 import StrategyPatterns.using.ICMS_AfterStrategy;
 import StrategyPatterns.using.ISS_AfterStrategy;
 import StrategyPatterns.using.Tax;
