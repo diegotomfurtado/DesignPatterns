@@ -72,7 +72,7 @@ public class Tax_Testing {
 		System.out.println
 		(
 				"ICMS (with Strategy Patterns): " +
-				calculation.performCalculation_strategyPatterns(budget, icms_using)
+				calculation.performCalculation_strategyPatterns(budget, icms_using) 
 		);
 		
 	
