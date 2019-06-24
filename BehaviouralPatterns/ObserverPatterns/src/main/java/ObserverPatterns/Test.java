@@ -13,6 +13,5 @@ public class Test {
 		stolenCar.right();
 		stolenCar.left();
 		stolenCar.stop();
-		
 	}
 }
